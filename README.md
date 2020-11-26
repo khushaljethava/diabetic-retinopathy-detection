@@ -9,7 +9,8 @@ The goal here is to scale their efforts through technology; to gain the ability 
 ### Algortihms Used
 
 1. Convolutional Neural Network
-    Accuracy We got 73%
+	
+Accuracy We got 73%
 
 
 
