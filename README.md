@@ -14,10 +14,10 @@ The goal here is to scale their efforts through technology; to gain the ability 
 
 ### Deployment Images
 	HomePage
-	![Alt text](Images/Homepage.png)
+![Alt text](Images/Homepage.png)
 	
 	Result	
-	![Alt text](Images/result.png)
+![Alt text](Images/result.png)
 
 
 
