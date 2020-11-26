@@ -11,7 +11,14 @@ The goal here is to scale their efforts through technology; to gain the ability 
 1. Convolutional Neural Network
 	Accuracy We got 73%
 
-![Alt text](age.png)
+
+### Deployment Images
+	HomePage
+	![Alt text](Images/Homepage.png)
+	
+	Result	
+	![Alt text](Images/result.png)
+
 
 
 ### Packages and Tools Required:
